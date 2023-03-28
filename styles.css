@@ -71,6 +71,8 @@ main {
     background-color: var(--custom-blue);
     text-align: center;
     color: white;
+    border: none;
+    box-shadow: 0 0.5rem 0.5rem rgba(0, 0, 0, 0.6);
 }
 
 .offer-button span {
@@ -102,6 +104,7 @@ main {
     border: none;
     font-size: 1.1rem;
     font-weight: 600;
+    box-shadow: 0 0.2rem 0.1rem rgba(50, 200, 120, 1);
 }
 
 .terms {
